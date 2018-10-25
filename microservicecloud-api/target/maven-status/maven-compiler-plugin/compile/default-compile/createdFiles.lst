@@ -1,0 +1,4 @@
+com\wanda\springcloud\service\DeptClientServiceFallbackFactory$1.class
+com\wanda\springcloud\entites\Dept.class
+com\wanda\springcloud\service\DeptClientServiceFallbackFactory.class
+com\wanda\springcloud\service\DeptClientService.class

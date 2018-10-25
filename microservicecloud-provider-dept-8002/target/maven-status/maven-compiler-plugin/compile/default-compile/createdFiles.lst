@@ -1,0 +1,5 @@
+com\wanda\springcloud\dao\DeptDao.class
+com\wanda\springcloud\DeptProvider8002_App.class
+com\wanda\springcloud\service\impl\DeptServiceImpl.class
+com\wanda\springcloud\service\DeptService.class
+com\wanda\springcloud\controller\DeptController.class
